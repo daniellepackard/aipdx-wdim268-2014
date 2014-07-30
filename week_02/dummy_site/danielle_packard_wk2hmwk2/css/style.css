@@ -1,2 +1,51 @@
-/* couldn't get the styles come pull up for these css styles so I just put all of my styles in layout.css
-Not used to having separate layout and style css stylesheets yet */
+/* styles css */
+
+/* put all my styles in this css document and my reset in the other
+for this class exercise */
+
+*, *:before, *:after {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background-color: rgba(224,197,209,.4);
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 400;
+}
+
+.me {
+	float: left;
+	width: 80%;
+	padding: 2%;
+	margin-left: 10%;
+}
+
+h1 {
+	color: #000; 
+	font-family: 'Italiana', serif;
+	font-weight: 400;
+	font-size: 2em;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #000;
+}
+
+p {
+	color: #000;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 400;
+	font-size: .9em;
+	letter-spacing: 2px;
+	padding-top: 15px;
+}
+
+span {
+	font-weight: 400;
+	font-style: italic;
+}
