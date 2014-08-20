@@ -68,6 +68,13 @@ p {
 	font-size: .8em;
 }
 
+/*.home {
+	border-radius: 10px 0px 0px 10px;
+	-moz-border-radius: 10px 0px 0px 10px;
+	-webkit-border-radius: 10px 0px 0px 10px;
+	border: 0px solid #8c7f65;
+}*/
+
 blockquote {
 	float: right;
 	width: 200px;
@@ -95,7 +102,7 @@ aside {
 	right: 10px;
 	width: 200px;
 	font-size: .8em;
-	line-height: 1.2em;
+	line-height: 1.4em;
 }
 
 footer {
