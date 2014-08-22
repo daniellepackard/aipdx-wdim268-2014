@@ -70,21 +70,16 @@ p {
 	background-color: #8c7f65;
 }
 
-/*.home {
-	border-radius: 10px 0px 0px 10px;
-	-moz-border-radius: 10px 0px 0px 10px;
-	-webkit-border-radius: 10px 0px 0px 10px;
-	border: 0px solid ;
-}*/
-
 blockquote {
 	float: right;
-	width: 200px;
-	margin-right: 25%;
-	padding: 20px;
+	width: 150px;
+	margin-right: 30%;
+	margin-left: 10px;
+	padding: 10px;
 	font-family: Georgia, serif;
 	font-size: 1.2em;
 	line-height: 1.4em;
+	background-color: wheat;
 }
 
 .byline {
@@ -96,6 +91,8 @@ figure {
 	float: right;
 	margin-right: 30%;
 	padding: 10px;
+	background-color: wheat;
+
 }
 
 aside {
