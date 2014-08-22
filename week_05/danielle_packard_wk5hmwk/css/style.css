@@ -64,15 +64,17 @@ p {
 
 .nav_link {
 	display: inline-block;
-	padding-right: 5px;
+	padding: 5px;
+
 	font-size: .8em;
+	background-color: #8c7f65;
 }
 
 /*.home {
 	border-radius: 10px 0px 0px 10px;
 	-moz-border-radius: 10px 0px 0px 10px;
 	-webkit-border-radius: 10px 0px 0px 10px;
-	border: 0px solid #8c7f65;
+	border: 0px solid ;
 }*/
 
 blockquote {
